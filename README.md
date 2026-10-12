@@ -48,6 +48,12 @@ This repository includes:
 
 All data and splits are released with persistent DOI identifiers. Please cite the original dataset papers if you use them.
 
+### 2.4 Data Download
+
+Download the images in the dataset following the instructions in Section 2.1. The training data generated in this paper is available at the link below:
+
+https://pan.baidu.com/s/1tpMYTboeGUrcJY-3pqlZzg?pwd=r2b4 Access code: r2b4 
+
 ---
 
 ## 3. Training Process
