@@ -194,21 +194,8 @@ python transformers/demo-hf.py
 
 All experimental data, derived datasets and splits, generated scene descriptions, source code, and model weights used in this study are publicly available through this repository.
 
-
-## 9. Contact
-
-**Corresponding author:** Xiaofei Hu  
-**Email:** huxiaofeicn@163.com  
-**Affiliation:** Institute of Geospatial Information, PLA Cyberspace Information Engineering University, Zhengzhou, People's Republic of China
-
 ---
 
-## 10. Acknowledgements
-
-This work was supported by the Joint Fund of Collaborative Innovation Center of Geo-Information Technology for Smart Central Plains, Henan Province and Key Laboratory of Spatiotemporal Perception and Intelligent Processing, Ministry of Natural Resources under Grant 232109.
-
----
-
-## 11. License
+## 9. License
 
 This project is released under the [MIT License](LICENSE). Please also comply with the licenses of the original datasets (Pitts-250k, Pitts-IAL, Tokyo247, SF-XL-Base).
